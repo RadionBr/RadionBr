@@ -3,20 +3,20 @@
 - 🌱 I’m currently learning JS
 
 
-List of my technical abilities
+                                          List of my technical abilities
 
-WEB development:
-- JS
-- jQuery
-- HTML | CSS
-- Sass
+                                                        WEB development:
+                                                        - JS
+                                                        - jQuery
+                                                        - HTML | CSS
+                                                        - Sass
 
-Backend:
-- NodeJS
-- PHP
+                                                        Backend:
+                                                        - NodeJS
+                                                        - PHP
 
-CMS
-- Wordpress
+                                                        CMS
+                                                        - Wordpress
 
 Creator of the Xbox Ukraine community. I love test flipper zero scripts, continue my studies at IT BANDA (learning js, jquery, php)
 
