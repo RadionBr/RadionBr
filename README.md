@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RadionBr
 - 👀 I’m interested in full stack
 - 🌱 I’m currently learning JS
-- 
+
 List of my technical abilities
 
 WEB development:
