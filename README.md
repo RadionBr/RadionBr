@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadionBr
 - 👀 I’m interested in full stack
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning Python
 
 List of my technical abilities
 
