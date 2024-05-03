@@ -17,10 +17,7 @@ Backend:
 CMS
 - Wordpres
 
-Creator of the Xbox Ukraine community. I love test flipper zero scripts, continue my studies at IT BANDA (learning js, jquery, php)
-
-
-I love big projects, especially when they are implemented and make a profit.
+Creator of the Xbox Ukraine community. I love test flipper zero scripts. Kali Linux
 
 
 <!---
