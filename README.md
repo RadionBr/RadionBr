@@ -17,7 +17,7 @@ Backend:
 CMS
 - Wordpres
 
-Creator of the Xbox Ukraine community. I love test flipper zero scripts. Kali Linux
+Creator of the Xbox Ukraine community. I love test flipper zero scripts. My life my home is KALI LINUX
 
 
 <!---
