@@ -4,6 +4,8 @@
 
 List of my technical abilities
 
+Python, C
+
 WEB development:
 - JS
 - jQuery
