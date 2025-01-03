@@ -4,8 +4,9 @@
 
 List of my technical abilities
 
-Python, C
-Kali Linux Bash
+- Python
+- C
+- Kali Linux Bash
 
 WEB development:
 - JS
